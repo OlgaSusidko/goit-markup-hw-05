@@ -159,6 +159,10 @@ body {
   color: var(--color-hover);
 }
 
+.header-link-active {
+  color: var(--color-hover);
+}
+
 .header-link-active::after {
   content: '';
   position: absolute;
